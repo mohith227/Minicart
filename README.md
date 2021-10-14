@@ -1,0 +1,2 @@
+# Minicart
+In This module, we are displaying whether free shipping is available for the cart if free shipping is available for the minimum order it displays 'Eligible for free shipping!' else it displays minimum amount that is required for free shipping. Thank you for using the module. Looking forward to your feedback, Code improvement and Module Enhancement is Appreciated. For any Magento 2 projects or For Freelancing work drop a mail to "mohithdeveloper@gmail.com".
